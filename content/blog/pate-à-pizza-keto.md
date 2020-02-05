@@ -5,6 +5,8 @@ description: Pate à Pizza KETO
 ---
 > Pâte à pizza à base de fromage et d'amande. Simple et efficace, ça plait même à ceux qui ne sont pas au régime
 
+![Pizza Keto](/assets/easy-fathead-dough-pizza.jpg "Fathead Pizza")
+
 ### Ingrédients
 - 170g de mozzarella
 - 85g de poudre d'amande
@@ -22,4 +24,4 @@ description: Pate à Pizza KETO
 6. Faire des trous dans la pâte et cuire au four 12-15min à 220°C
 7. Composer la pizza et la remettre au four 5 min
 
-![Pizza Keto](/assets/easy-fathead-dough-pizza.jpg "Fathead Pizza")
+
