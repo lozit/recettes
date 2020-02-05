@@ -6,7 +6,7 @@ description: Pate à Pizza KETO
 > Pâte à pizza à base de fromage et d'amande
 > Simple et efficace, ça plait même à ceux qui ne sont pas au régime
 
-# Ingrédients
+### Ingrédients
 - 170g de mozzarella
 - 85g de poudre d'amande
 - 2 cuillère à soupe de Philadelphia
@@ -14,7 +14,7 @@ description: Pate à Pizza KETO
 - Sel
 - Romarin ou autre si on veut parfumer la pâte
 
-# Étapes
+### Étapes
 1. On melange la farine, la mozza coupée en petits bouts et le Philadelphia.
 2. Passer au micro-onde pendant 1 min à fond.
 3. Mélanger puis repasser au micro-onde pendant 30sec
