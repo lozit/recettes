@@ -3,7 +3,8 @@ date: 2020-02-05T16:43:15.752Z
 title: Pate à Pizza KETO
 description: Pate à Pizza KETO
 ---
-170g de mozzarella 85g de poudre d'amande
+170g de mozzarella \
+85g de poudre d'amande \
 2 cuillère à soupe de Philadelphia
 1 oeuf
 Sel
@@ -16,3 +17,7 @@ Romarin etc.. si on veut parfumer
 5. Mettre la pâte entre deux feuilles de papier sulfurisé pour étaler la pâte en cercle
 6. Faire des trous dans la pâte et cuire au four 12-15min à 220°C
 7. Composer la pizza et la remettre au four 5 min
+
+
+
+![Pizza Keto](/assets/easy-fathead-dough-pizza.jpg "Fathead Pizza")
