@@ -3,8 +3,7 @@ date: 2020-02-05T16:43:15.752Z
 title: Pate à Pizza KETO "FatHead"
 description: Pate à Pizza KETO
 ---
-> Pâte à pizza à base de fromage et d'amande
-> Simple et efficace, ça plait même à ceux qui ne sont pas au régime
+> Pâte à pizza à base de fromage et d'amande. Simple et efficace, ça plait même à ceux qui ne sont pas au régime
 
 ### Ingrédients
 - 170g de mozzarella
