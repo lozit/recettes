@@ -74,5 +74,8 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
+    `gatsby-plugin-remove-fingerprints`,
+    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-netlify`,
   ],
 }
