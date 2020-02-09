@@ -4,6 +4,7 @@ title: Gâteau aux noisettes
 description: 'Gâteau aux noisettes CÉTOGÈNE gourmand '
 tags:
   - cétogène
+  - dessert
 ---
 ### Super miam / Four 200° -  25 min 
 
