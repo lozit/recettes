@@ -2,6 +2,9 @@
 date: 2020-01-27T08:48:30.514Z
 title: Pâte praliné maison
 description: Pâte praliné maison
+tags:
+  - cétogène
+  - dessert
 ---
 
 ﻿
