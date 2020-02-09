@@ -2,6 +2,9 @@
 date: 2020-02-05T17:01:42.583Z
 title: Daquoise Praliné Chocolat
 description: Daquoise Praliné Chocolat
+tags:
+  - cétogène
+  - dessert
 ---
 > Le dessert de Noël
 
