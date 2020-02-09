@@ -3,8 +3,6 @@ date: 2020-01-27T08:48:30.514Z
 title: Pâte praliné maison
 description: Pâte praliné maison
 ---
-> Pâte à pizza à base de fromage et d'amande. Simple et efficace, ça plait même à ceux qui ne sont pas au régime
-﻿
 
 ﻿
 ### Ingrédients
