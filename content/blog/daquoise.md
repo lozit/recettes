@@ -30,4 +30,11 @@ description: Daquoise Praliné Chocolat
 
 ### Étapes
 1. Monter une Chantilly.
-2. Prélever quelques cuillières de chantilly et les incorporer
+2. Prélever quelques cuillières de chantilly et les incorporer à la pâte de praliné pour l'assouplir.
+3. Incorporer la pâte de praliné à la chantilly délicatement à la maryse.
+
+## Montage final
+
+1. Découper le biscuit en rectangle.
+2. Déposer une fine couche de mousse au chocolat très noir.
+3. Déposer dessus la chantilly au praliné.
