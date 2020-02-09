@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Recettes cétogènes`,
+    title: `Recettes`,
     author: `Guillaume Ferrari`,
-    description: `Recettes cétogènes et autres curiosités culinaires`,
-    siteUrl: `https://recettes.guillaumeferrari.fr`,
+    description: `Recettes et autres curiosités culinaires`,
+    siteUrl: `https://recettes.heyjoe.fr`,
     social: {
       twitter: ``,
     },
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Recettes cétogènes`,
-        short_name: `Recettes cétogènes`,
+        name: `Recettes`,
+        short_name: `Recettes`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
