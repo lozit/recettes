@@ -60,7 +60,7 @@ module.exports = {
         name: `Recettes`,
         short_name: `Recettes`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#f4efdb`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,

@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
+import { kebabCase } from 'lodash'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
@@ -26,7 +26,28 @@ const BlogIndex = ({ data, location }) => {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+              <small
+                style={{
+                  display: `flex`,
+                }}
+              >
+                <span>{node.frontmatter.date} </span>&nbsp;|&nbsp;
+              <ul
+                style={{
+                  display: `flex`,
+                  listStyleType: `none`,
+                }}
+              >
+              {node.frontmatter.tags.map(function(tag){
+                return <li
+                style={{
+                  marginRight: `5px`,
+                }}
+                ><Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link></li>
+              })}
+              </ul>
+
+              </small>
             </header>
             <section>
               <p
@@ -62,6 +83,7 @@ export const pageQuery = graphql`
             date(formatString: "DD MM YYYY")
             title
             description
+            tags
           }
         }
       }
