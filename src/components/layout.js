@@ -30,7 +30,7 @@ const Layout = ({ location, title, children }) => {
           }}
           />
           
-        </Link>
+        </Link>ncu -u
       </h1>
     )
   } else {
