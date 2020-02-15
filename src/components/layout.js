@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-import { rhythm, scale } from "../utils/typography"
-import logo from "../../content/assets/enjoytheyummies-12.png"
+import { rhythm } from "../utils/typography"
+import logo from "./enjoytheyummies-12.png"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
