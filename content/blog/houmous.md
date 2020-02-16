@@ -3,7 +3,8 @@ date: 2020-02-16T14:35:51.300Z
 title: HOUMOUS
 description: 'Houmous, recette à tomber par terre....'
 tags:
-  - HOUMOUSn pois chiche
+  - Houmous
+  - pois chiche
   - apéritif
 ---
 **INGRÉDIENTS**
