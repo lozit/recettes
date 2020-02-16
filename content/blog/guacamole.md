@@ -6,7 +6,7 @@ tags:
   - recette
   - guacamole
   - avocat
-  - ''
+  - apéritif
 ---
 **Ingrédients**
 
