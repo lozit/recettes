@@ -73,7 +73,7 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    `gatsby-plugin-offline`,
+    `gatsby-plugin-remove-serviceworker`,
     `gatsby-plugin-remove-fingerprints`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`,
