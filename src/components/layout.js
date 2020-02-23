@@ -100,10 +100,11 @@ const Layout = ({ location, title, children }) => {
           paddingBottom: '20px'
         }}
       >
-        © {new Date().getFullYear()} <Link style={{fontStyle: 'italic'}} to={`https://heyjoe.agency`}>Hey Joe!</Link>
+        © {new Date().getFullYear()} <a style={{fontStyle: 'italic'}} href='https://heyjoe.agency'>Hey Joe!</a>
       </footer>
     </div>
   )
 }
+
 
 export default Layout

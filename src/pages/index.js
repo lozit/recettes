@@ -44,6 +44,7 @@ const BlogIndex = ({ data, location }) => {
               >
               {node.frontmatter.tags.map(function(tag){
                 return <li
+                key={tag}
                 style={{
                   marginRight: `5px`,
                 }}
