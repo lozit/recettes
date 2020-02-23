@@ -66,7 +66,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
     `gatsby-plugin-remove-fingerprints`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-netlify`,
