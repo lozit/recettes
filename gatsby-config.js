@@ -4,9 +4,6 @@ module.exports = {
     author: `Guillaume Ferrari`,
     description: `Recettes et autres curiosités culinaires`,
     siteUrl: `https://recettes.heyjoe.fr`,
-    social: {
-      twitter: ``,
-    },
   },
   plugins: [
     {
@@ -24,6 +21,18 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Lora`,
+            subsets: [`latin`],
+            variants: [`400`,`400i`,`400`,`700i`]
+          },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -33,15 +42,6 @@ module.exports = {
               maxWidth: 590,
             },
           },
-          {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
-          },
-          `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
         ],
       },
     },
@@ -50,10 +50,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-235793-30`,
       },
     },
-    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -61,18 +60,12 @@ module.exports = {
         short_name: `Recettes`,
         start_url: `/`,
         background_color: `#f4efdb`,
-        theme_color: `#663399`,
+        theme_color: `#2b585f`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
     `gatsby-plugin-offline`,
     `gatsby-plugin-remove-fingerprints`,
     `gatsby-plugin-netlify-cms`,

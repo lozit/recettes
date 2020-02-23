@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { rhythm } from "../utils/typography"
+
 import logo from "./enjoytheyummies-12.png"
 
 const Layout = ({ location, title, children }) => {
@@ -9,10 +9,10 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
+      <>
       <h1
         style={{
-
-          margin: 0,
+          margin: '10px 0 0 0',
         }}
       >
         <Link
@@ -32,13 +32,23 @@ const Layout = ({ location, title, children }) => {
           
         </Link>
       </h1>
+      <div
+        style={{
+          fontStyle: 'italic',
+          fontSize: '13px',
+          lineHeight: '1.4em',
+          paddingTop: '30px'
+        }}
+      >
+        Ce site est avant tout notre bloc-notes. Des expérimentations, des recettes que l'on trouve bien et que l'on veut sauvegarder quelque part. Il remplace la tonne de feuilles A4 gribouillées qui s'entassent dans notre classeur de recettes. Rien de nouveau, rien d'exeptionnel, mais juste des recettes que l'on trouve sympa et que l'on a envie de conserver quelque part. Comme on cuisine avec très peu ou pas de sucre, certaines recettes sont à IG bas ou cétogènes.
+      </div>
+      </>
     )
   } else {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
-          margin: 0,
+          margin: '10px 0 0 0',
         }}
       >
         <Link
@@ -65,18 +75,33 @@ const Layout = ({ location, title, children }) => {
         marginLeft: `auto`, 
         marginRight: `auto`,
         width: `100%`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        maxWidth: '600px',
         display: `flex`,
         flexDirection: `column`,
       }}
     >
       <header>{header}</header>
-      <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+      <main
+        style={{
+          display: `flex`,
+          flexDirection: `column`,
+        }}
+      >
+      <div
+        style={{
+
+        }}
+      >{children}</div>
+
+      </main>
+      <footer
+        style={{
+          paddingTop: '60px',
+          fontSize: '12px',
+          paddingBottom: '20px'
+        }}
+      >
+        © {new Date().getFullYear()} <Link style={{fontStyle: 'italic'}} to={`https://heyjoe.agency`}>Hey Joe!</Link>
       </footer>
     </div>
   )
