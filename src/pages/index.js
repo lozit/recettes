@@ -53,7 +53,7 @@ const BlogIndex = ({ data, location }) => {
                   boxShadow: `none`,
                   textDecoration: 'none'
                 }}
-                to={`/tags/${kebabCase(tag)}/`}>{tag}</Link></li>
+                to={`/tags/${kebabCase(tag)}`}>{tag}</Link></li>
               })}
               </ul>
 

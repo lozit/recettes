@@ -101,7 +101,7 @@ article.blogpost h3 {
     line-height: 1.1;
 }
 
-article.blogpost ul {
+ul {
     margin-right: 0;
     margin-top: 0;
     padding-bottom: 0;
@@ -112,7 +112,7 @@ article.blogpost ul {
     list-style: disc;
 }
 
-article.blogpost ol {
+ol {
     margin-right: 0;
     margin-top: 0;
     padding-bottom: 0;
@@ -125,6 +125,6 @@ article.blogpost ol {
     list-style: decimal;
 }
 
-article.blogpost ul li {
+ul li {
     padding-bottom: 10px;
 }
