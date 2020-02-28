@@ -48,10 +48,20 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: "gatsby-plugin-ackee-tracker",
       options: {
-        trackingId: `UA-235793-30`,
-      },
+          // Domain ID found when adding a domain in the admin panel.
+          domainId: "1a47fd3f-a2f9-4674-97f9-a04eda15b69e",
+          // URL to Server eg: "https://analytics.test.com".
+          server: "https://ackee-heyjoe.herokuapp.com",
+          // Disabled analytic tracking when running locally
+          // IMPORTANT: Set this back to false when you are done testing
+          ignoreLocalhost: true,
+          // If enabled it will collect info on OS, BrowserInfo, Device  & ScreenSize
+          // False due to detailed information being personalized:
+          // https://github.com/electerious/Ackee/blob/master/docs/Anonymization.md#personal-data
+          detailed: false
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
