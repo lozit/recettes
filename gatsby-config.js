@@ -21,15 +21,11 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: "gatsby-plugin-web-font-loader",
       options: {
-        fonts: [
-          {
-            family: `Lora`,
-            subsets: [`latin`],
-            variants: [`400`,`400i`,`400`,`700i`]
-          },
-        ],
+        google: {
+          families: ["Lora:400,400i,700,700i:latin"],
+        },
       },
     },
     {
@@ -50,18 +46,18 @@ module.exports = {
     {
       resolve: "gatsby-plugin-ackee-tracker",
       options: {
-          // Domain ID found when adding a domain in the admin panel.
-          domainId: "1a47fd3f-a2f9-4674-97f9-a04eda15b69e",
-          // URL to Server eg: "https://analytics.test.com".
-          server: "https://ackee-heyjoe.herokuapp.com",
-          // Disabled analytic tracking when running locally
-          // IMPORTANT: Set this back to false when you are done testing
-          ignoreLocalhost: true,
-          // If enabled it will collect info on OS, BrowserInfo, Device  & ScreenSize
-          // False due to detailed information being personalized:
-          // https://github.com/electerious/Ackee/blob/master/docs/Anonymization.md#personal-data
-          detailed: false
-      }
+        // Domain ID found when adding a domain in the admin panel.
+        domainId: "1a47fd3f-a2f9-4674-97f9-a04eda15b69e",
+        // URL to Server eg: "https://analytics.test.com".
+        server: "https://ackee-heyjoe.herokuapp.com",
+        // Disabled analytic tracking when running locally
+        // IMPORTANT: Set this back to false when you are done testing
+        ignoreLocalhost: true,
+        // If enabled it will collect info on OS, BrowserInfo, Device  & ScreenSize
+        // False due to detailed information being personalized:
+        // https://github.com/electerious/Ackee/blob/master/docs/Anonymization.md#personal-data
+        detailed: false,
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
