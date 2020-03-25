@@ -79,7 +79,7 @@ module.exports = {
       resolve: `gatsby-plugin-netlify`,
       options: {
         headers: {
-          "/*": ["Access-Control-Allow-Origin: https://recettes.heyjoe.fr/"],
+          "/*": ["Access-Control-Allow-Origin: *"],
         },
       },
     },

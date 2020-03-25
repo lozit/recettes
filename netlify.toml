@@ -1,4 +1,4 @@
 [[headers]]
   for = "/*"
     [headers.values]
-      Access-Control-Allow-Origin = "https://recettes.heyjoe.fr/"
+      Access-Control-Allow-Origin = "*"
