@@ -75,6 +75,13 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-remove-fingerprints`,
     `gatsby-plugin-netlify-cms`,
-    `gatsby-plugin-netlify`,
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: {
+        headers: {
+          "/*": ["Access-Control-Allow-Origin: https://recettes.heyjoe.fr/"],
+        },
+      },
+    },
   ],
 }
