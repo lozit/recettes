@@ -1,5 +1,5 @@
 ---
-date: 2020-03-25T09:07:11.120Z
+date: 2020-03-24T09:07:11.120Z
 title: Pain cocotte
 description: Une recette simple qui permet de faire un pain fantastique.
 tags:
