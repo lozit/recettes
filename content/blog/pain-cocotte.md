@@ -7,7 +7,7 @@ tags:
 ---
 > Le pain cocotte est un pain facile a préparer et très bon.
 ﻿
-![Pain cocotte](/assets/pain.jpg "Fathead Pizza")
+![Pain cocotte](/assets/pain.jpg "Pain cocotte")
 ﻿
 ### Ingrédients
 - 500g de farine
