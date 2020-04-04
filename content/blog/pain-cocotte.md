@@ -20,10 +20,10 @@ tags:
 
 1. Mélanger eau tiède, farine, sel et levure jusqu'à obtenir une pâte qui se tient mais toujours collante aux doigts. 
 2. Repos 12-24 heures.
-3. Enfournage 220° sans même besoin de rabats 45 minutes dans une cocotte déjà brûlante
-4. 15 minutes sans couvercle pour la couleur.
+3. Enfournage 240° sans même besoin de rabats 22 minutes dans une cocotte déjà brûlante
+4. 22 minutes sans couvercle pour la couleur.
 
-## Autre version
+## Autre version (pas testée encore)
 
 ### Ingrédients
 
