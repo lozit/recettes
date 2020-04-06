@@ -24,5 +24,6 @@ tags:
 5. Remise en température 30/40min
 6. Façonnage
 7. Apprêt de 40min à 23°
-8. Enfournage 240° pour 20min
-9. Ressuage 45min
+8. Enfournage 240° pour 15min environ (on surveille la couleur)
+9. 10min four ouvert à 200°
+10. Ressuage 45min
