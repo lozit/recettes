@@ -7,7 +7,8 @@ tags:
 ---
 > Premier test de pain d'épautre
 ﻿
-﻿
+﻿![Pain cocotte](/assets/pain-epautre.jpg "Pain cocotte")
+
 ### Ingrédients
 ﻿
 * 500g de farine d'épautre
