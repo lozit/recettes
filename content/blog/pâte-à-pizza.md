@@ -7,7 +7,7 @@ tags:
 ---
 > Pâte à pizza classique
 ﻿
-![Pizza Keto](/assets/easy-fathead-dough-pizza.jpg "Fathead Pizza")
+![Pizza Keto](/assets/pizza.jpeg "Pizza")
 ﻿
 ### Ingrédients
 - 25cl d'eau à 10/14°
