@@ -7,6 +7,8 @@ tags:
 ---
 > La poolish permet d'aérer un pain sans levain
 
+![Poolish](/assets/Poolish-2.jpg "Poolish")
+
 ### La Poolish
 On part de sa recette.
 Le J1, on met la moitié d'eau + 1/4 de levure + le poids de l'eau en farine.
