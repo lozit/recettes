@@ -8,6 +8,8 @@ tags:
 ---
 > Plat ramené d'Inde, simple et délicieux et qui permet de cuisiner les épinards de façon un peu sympa.
 
+![Aloo Palak](/assets/aloo-palak.jpg "Aloo Palak")
+
 ### Ingrédients
 - Épinards 50%
 - Pommes de terre 50%
