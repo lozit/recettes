@@ -15,6 +15,7 @@ tags:
 > - Effectuer des coupes longues, peu profondes et parallèles aux côtés du pâton. Tenir la lame de biais
 > - Contrôler la température du four (pas trop chaud)
 > - Mettre suffisamment de buée
+> - Essayer avec des pierres réfractaires
 
 
 ![Poolish](/assets/Poolish.jpg "Poolish")
