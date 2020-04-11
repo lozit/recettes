@@ -9,7 +9,7 @@ tags:
 
 > La poolish permet d'aérer un pain sans levain
 
-![Poolish](/assets/Poolish-2.jpg "Poolish")
+![Poolish](/assets/Poolish.jpg "Poolish")
 
 ### La Poolish
 
