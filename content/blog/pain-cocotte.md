@@ -7,7 +7,7 @@ tags:
 ---
 > Le pain cocotte est un pain facile a préparer et très bon.
 
-![Pain cocotte](/assets/pain.jpg "Pain cocotte")
+![Pain cocotte](/assets/pain_cocotte_2.jpg "Pain cocotte")
 
 ### Ingrédients
 
