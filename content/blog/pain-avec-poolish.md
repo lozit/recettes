@@ -19,13 +19,14 @@ tags:
 
 ![Poolish](/assets/Poolish.jpg "Poolish")
 
-### La Poolish
+### Calcul de la Poolish
 
-On part de sa recette.
-Le J1, on met la moitié d'eau + 1/4 de levure + le poids de l'eau en farine.
+On peut faire une poolish avec n'importe quelle recette de pain.
+On part des ingrédients pour le pain en entier.
+Le J1, on met la moitié d'eau + 1/10 de levure + le poids de l'eau en farine.
 Le J2, on rajoute tout le reste.
 
-### Pour la recette suivante :
+### Ingédients :
 
 - 400g Farine T55
 - 100g Farine Epautre
@@ -41,7 +42,7 @@ Le J2, on rajoute tout le reste.
 - 170g d'eau
 
 1. On mélange le tout. La poolish doit avoir une consistance de miel liquide. On peut rajouter de l'eau... mais tout ce que l'on rajoute on devra l'enlever le J2.
-3. On laisse au moins 10h à température ambiante.
+2. On laisse au moins 10h à température ambiante.
 
 ### J2 (ou 10h plus tard)
 
