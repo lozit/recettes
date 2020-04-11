@@ -65,7 +65,7 @@ module.exports = {
         name: `Recettes`,
         short_name: `Recettes`,
         start_url: `/`,
-        background_color: `#f4efdb`,
+        background_color: `#F9F9F9`,
         theme_color: `#2b585f`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,

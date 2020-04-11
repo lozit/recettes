@@ -1,25 +1,27 @@
 ---
 date: 2020-02-09T18:26:02.819Z
 title: Gâteau aux noisettes
-description: 'Gâteau aux noisettes CÉTOGÈNE gourmand '
+description: "Gâteau aux noisettes CÉTOGÈNE gourmand "
 tags:
   - cétogène
   - dessert
+  - sucré
+  - noisette
+  - chocolat
 ---
-### Super miam / Four 200° -  25 min 
+
+### Super miam / Four 200° - 25 min
 
 ### Ingrédients
 
-* 125g de noisettes en poudre
-* 40g de sucre en poudre pour les jaunes ERYTHRITOL
-* 40g de sucre en poudre pour les blancs en neige ERYTHRITOL
-* 3 oeufs
-* Beurre pour le moule
-* Quelques carrés de chocolat
+- 125g de noisettes en poudre
+- 40g de sucre en poudre pour les jaunes ERYTHRITOL
+- 40g de sucre en poudre pour les blancs en neige ERYTHRITOL
+- 3 oeufs
+- Beurre pour le moule
+- Quelques carrés de chocolat
 
 ### Mode opératoire
-
-
 
 1. Faire préchauffer le four à 200°C.
 2. Casser les oeufs en séparant les blancs des jaunes. Mélanger les jaunes avec le sucre en poudre.

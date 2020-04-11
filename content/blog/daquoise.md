@@ -5,17 +5,21 @@ description: Daquoise Praliné Chocolat
 tags:
   - cétogène
   - dessert
+  - sucré
+  - amande
+  - noisette
 ---
+
 > Le dessert de Noël
 
 ## Pour le biscuit
 
 ### Ingrédients
 
-* 4 blancs d’œufs
-* 100g de poudre d'amandes
-* 100g d'Érythritol
-* Noisettes concassées
+- 4 blancs d’œufs
+- 100g de poudre d'amandes
+- 100g d'Érythritol
+- Noisettes concassées
 
 ### Étapes
 
@@ -28,10 +32,11 @@ tags:
 
 ### Ingrédients
 
-* Crème fleurette
-* Pâte praliné (voir plus loin)
+- Crème fleurette
+- Pâte praliné (voir plus loin)
 
 ### Étapes
+
 1. Monter une Chantilly.
 2. Prélever quelques cuillières de chantilly et les incorporer à la pâte de praliné pour l'assouplir.
 3. Incorporer la pâte de praliné à la chantilly délicatement à la maryse.
