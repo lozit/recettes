@@ -1,6 +1,6 @@
 ---
 date: 2020-04-12T20:35:46.729Z
-title: Griissini Stirati (Gressins)
+title: Grissini Stirati (Gressins)
 description: Gressins
 tags:
   - boulangerie
