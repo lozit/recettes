@@ -9,7 +9,7 @@ tags:
 
 > Pâte à pizza classique
 
-![Pizza Keto](/assets/pizza.jpeg "Pizza")
+![Pizza Keto](/assets/Pizza-2.jpg "Pizza")
 
 ### Ingrédients
 
