@@ -7,7 +7,7 @@ tags:
   - Tarte
   - Fraise
 ---
-![]()
+![Tarte aux fraises](/assets/tarte-aux-fraises.jpg "Tarte aux fraises")
 
 ### Ingrédients
 
@@ -69,5 +69,3 @@ tags:
 3. Ajouter les fraises au dessus joliment comme cela vous plait
 
 Le petit plus: décorer la tarte avec de petites feuilles de menthe, de basilic c'est très odorant ou encore des fleurs comestibles cela fera sensation.
-
-
