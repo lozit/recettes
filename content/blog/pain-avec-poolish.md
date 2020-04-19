@@ -6,18 +6,6 @@ tags:
   - salé
   - boulangerie
 ---
-
-> Essaie de pain à la poolish 
-> Très bons résultats sauf pour l'alvéolage de la pâte.
-
-> Quelques pistes à essayer
-> - Pas de petrissage, que des rabats
-> - Effectuer des coupes longues, peu profondes et parallèles aux côtés du pâton. Tenir la lame de biais
-> - Contrôler la température du four (pas trop chaud)
-> - Mettre suffisamment de buée
-> - Essayer avec des pierres réfractaires
-
-
 ![Poolish](/assets/Poolish.jpg "Poolish")
 
 ### Calcul de la Poolish
@@ -58,10 +46,11 @@ Le J2, on rajoute tout le reste.
 3. Après le frasage, on laisse reposer 20min.
 4. On étire la pâte.
 5. 1h15 à température ambiante (pointage).
-6. Division / Boullage
-7. Détente de 5min
-8. Mise en forme
-9. Aprêt à 25° pour 45min
-10. Faire des entailles sur le pain
-11. préchauffer le four à 250°
-12. Coup de buée quand on enfourne
+6. Division / Boullage.
+7. Détente de 5min.
+8. Mise en forme.
+9. Aprêt à 25° pour 45min.
+10. Faire des entailles sur le pain.
+11. préchauffer le four à 300°.
+12. Coup de buée quand on enfourne.
+13. On baisse tout de suite la température à 250° au moment où on enfourne.
