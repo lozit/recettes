@@ -5,19 +5,19 @@ description: Pain au levain respectus panis
 tags:
   - Salé
 ---
-
 > Une méthode avec très peu de travail et en laissant du temps au levain de travailler à notre place. Le goût est là !
-﻿
-﻿
+
+![Pain au levain respectus panis](/assets/respectus-panis.jpg "Pain au levain respectus panis")
+
 ### Ingrédients
-﻿
-- Farine 500g (je mélange 350g de T65 et 150g de T80)
-- 8g de sel
-- 2g de levain
-- Eau TB75° : 340g
-﻿
+
+* Farine 500g (je mélange 350g de T65 et 150g de T80)
+* 8g de sel
+* 2g de levain
+* Eau TB75° : 340g
+
 ### Étapes
-﻿
+
 1. Frasage 3min / Repos 30min
 2. Un rabat et repos 2h.
 3. Un rabat et laisser reposer 12h.
