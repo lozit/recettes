@@ -16,7 +16,7 @@ tags:
 
 * 2 pêches bien mûres
 * 1 citron préssé
-* 5 moules à glaces (IKEA)
+* Moules à glaces (IKEA)
 
 
 ### Étapes
