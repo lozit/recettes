@@ -1,31 +1,30 @@
 ---
 date: 2020-08-16T21:31:41.570Z
-title: 'TCHAÏ '
-description: Thé à l'indienne au lait et aux épices
+title: Glace à l'eau pêche & citron
+description: Batonnet de glace à l'eau dans sucre ajouté
 tags:
-  - thé
-  - inde
-  - lait
-  - épices
-  - boisson
+  - dessert
+  - glace
+  - sucré
+  - pêche
+  - citron
+  - eau
 ---
 
 
 ### Ingrédients
 
-* 1 L d'eau
-* 3 cuillères à thé de thé TATA TEA
-* 1/4 DE cuillère à café d'épices à thé
-* 1/2 boite de lait en poudre régilait
-
+* 2 pêches bien mûres
+* 1 citron préssé
+* 5 moules à glaces (IKEA)
 
 
 ### Étapes
 
-1. Mettre dans une casserole l'eau et le thé 
-2. Faire bouillir
-3. Ajouter les épices et mélanger
-4. Ajouter le lait en poudre
-5. Laisser monter à plusieurs reprise sans faire déborder cela aide à faire infuser le thé et à épaissir la préparation.
+1. Peler les pêches
+2. Presser le citron
+3. Mélanger avec le mixeur plongeur
+4. Verser dans les moules
+5. Laisser geler au congélateur 12h au moins
 
 Bonne dégustation
