@@ -20,8 +20,7 @@ tags:
 
 ## Pour le caramel
 
-* Sucre
-* Eau
+* Sucre et rien d'autre :-)
 
 ### Étapes
 
