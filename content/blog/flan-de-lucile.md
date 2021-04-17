@@ -9,20 +9,19 @@ tags:
   - caramel
   - fleur d'oranger
 ---
-
 ### Ingrédients
 
 ### Pour le flan
 
-- 1 Lde lait entier
-- 8 oeufs
-- fleur d'oranger 
-- 150 g de sucre
+* 1 Lde lait entier
+* 8 oeufs
+* fleur d'oranger 
+* 150 g de sucre
 
 ## Pour le caramel
- - Sucre
- - Eau
 
+* Sucre
+* Eau
 
 ### Étapes
 
@@ -30,4 +29,8 @@ tags:
 2. Ajouter 150g de sucre
 3. Dans un saladier mélanger les 8 oeufs avec la fleur d'oranger
 4. Quand le lait frémit mélanger les deux préparations
-5. Faire le caramel
+5. Faire le caramel ,[ la recette ici](https://recettes.heyjoe.fr/caramel-liquide/)
+
+   6. Mettre le caramel au fond du moule et verser la creme au dessus
+
+   7. Faire cuire au bain marie pendant 1heure à 150°
