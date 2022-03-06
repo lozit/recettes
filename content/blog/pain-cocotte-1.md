@@ -5,6 +5,9 @@ description: Recette avec temps de pousse savoureuse
 tags:
   - sucré
   - boulangerie
+  - dessert
+  - gouter
+  - brioche
 ---
 > Je me suis levée un matin avec l'envie de faire la brioche pour les enfants et les grands
 
