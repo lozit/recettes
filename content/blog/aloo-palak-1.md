@@ -7,6 +7,8 @@ tags:
   - soupe
   - pho
   - vietnam
+  - bouillon
+  - plat
 ---
 > Plat spécialité de Mila, un régal
 
