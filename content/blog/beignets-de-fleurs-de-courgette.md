@@ -6,6 +6,9 @@ tags:
   - salé
   - Nice
   - plat
+  - légume
+  - courgette
+  - beignet
 ---
 
 > Spécialité niçoise, qui arrive avec le printemps. Les fleurs de courgette et les beignets qui vont avec, sont pour moi très liés aux beaux jours, les premières fois que l'on mange dehors, après la traversée de l'hiver. C'est un plat qui apporte la joie.
