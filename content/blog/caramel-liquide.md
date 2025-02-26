@@ -4,6 +4,7 @@ title: Caramel liquide
 description: Caramel liquide utilisé pour cuisiner
 tags:
   - sucré
+  - condiment
 ---
 > Caramel liquide utilisé pour cuisiner
 
