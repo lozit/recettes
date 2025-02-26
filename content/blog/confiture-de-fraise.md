@@ -7,6 +7,7 @@ tags:
   - Confiture
   - Sucré
   - Fraise
+  - condiment
 ---
 ![Confiture de fraise](/assets/confiture-fraise.jpg "Confiture de fraise")
 
