@@ -17,14 +17,14 @@ tags:
 POUR LE BOUILLON DE DÉPART
 
 * 1kg de boeuf à pot au feu (jarret à l'os / coté gélatineux)
-* 1 sachet d'épices pour PHÓ (voir photo)
+* 1 sachet d'épices pour PHÓ (voir photo à venir)
 * 8 litres eau
-* 2 bouillons cube vi PHÓ ( voir photo)
-* ajouter un branche de citronelle ( facultatif)
+* 2 bouillons cube vi PHÓ (voir photo à venir)
+* ajouter un branche de citronelle (facultatif)
 
 POUR LA PARTIE INGRÉDIENTS À METTRE DANS LA SOUPE
 
-* 2 Sachets de pâtes de riz ( voir photo)
+* 2 Sachets de pâtes de riz  (voir photo à venir)
 * 1 bouquet de coriandre
 * Quelques branches de menthe
 * Ciboulette
@@ -64,8 +64,6 @@ PREPARATION PERSONNALISÉE DE CHAQUE BOL
    \- Pour les amoureux du piment ajouter la sauce ail / piment (voir photo)
 
    \- Choisir les ingrédients posés sur la table et composez la soupe que vous souhaitez selon vos goûts.
-
-
 
 ![]()
 
