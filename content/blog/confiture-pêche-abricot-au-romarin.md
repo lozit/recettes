@@ -8,6 +8,7 @@ tags:
   - dessert
   - pêche
   - abricot
+  - condiment
 ---
 
 > Une confiture délicieuse et délicate
